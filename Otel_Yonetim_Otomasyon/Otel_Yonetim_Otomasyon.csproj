@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C0FFBFB-9769-48C2-B4D2-54667100D4B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Otel_Yonetim_Otomasyon</RootNamespace>
+    <AssemblyName>Otel_Yonetim_Otomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAktiviteler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAktiviteler.Designer.cs">
+      <DependentUpon>frmAktiviteler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmaktiviterapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaktiviterapor.Designer.cs">
+      <DependentUpon>frmaktiviterapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaform.Designer.cs">
+      <DependentUpon>frmAnaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCafeBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCafeBar.Designer.cs">
+      <DependentUpon>frmCafeBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgiderler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgiderler.Designer.cs">
+      <DependentUpon>frmgiderler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciislemleri.Designer.cs">
+      <DependentUpon>frmKullaniciislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMesajlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMesajlar.Designer.cs">
+      <DependentUpon>frmMesajlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmesajrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmesajrapor.Designer.cs">
+      <DependentUpon>frmmesajrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuhasebe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuhasebe.Designer.cs">
+      <DependentUpon>frmMuhasebe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriler.Designer.cs">
+      <DependentUpon>frmMusteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriRapor.Designer.cs">
+      <DependentUpon>frmMusteriRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOdalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOdalar.Designer.cs">
+      <DependentUpon>frmOdalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmpersonelrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpersonelrapor.Designer.cs">
+      <DependentUpon>frmpersonelrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSpaMasaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSpaMasaj.Designer.cs">
+      <DependentUpon>frmSpaMasaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStoklar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStoklar.Designer.cs">
+      <DependentUpon>frmStoklar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmstokrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstokrapor.Designer.cs">
+      <DependentUpon>frmstokrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYeniMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYeniMusteri.Designer.cs">
+      <DependentUpon>frmYeniMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkullanicigiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkullanicigiris.Designer.cs">
+      <DependentUpon>frmkullanicigiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="otelDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>otelDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAktiviteler.resx">
+      <DependentUpon>frmAktiviteler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaktiviterapor.resx">
+      <DependentUpon>frmaktiviterapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnaform.resx">
+      <DependentUpon>frmAnaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCafeBar.resx">
+      <DependentUpon>frmCafeBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgiderler.resx">
+      <DependentUpon>frmgiderler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciislemleri.resx">
+      <DependentUpon>frmKullaniciislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMesajlar.resx">
+      <DependentUpon>frmMesajlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmesajrapor.resx">
+      <DependentUpon>frmmesajrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuhasebe.resx">
+      <DependentUpon>frmMuhasebe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteriler.resx">
+      <DependentUpon>frmMusteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteriRapor.resx">
+      <DependentUpon>frmMusteriRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOdalar.resx">
+      <DependentUpon>frmOdalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpersonelrapor.resx">
+      <DependentUpon>frmpersonelrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSpaMasaj.resx">
+      <DependentUpon>frmSpaMasaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStoklar.resx">
+      <DependentUpon>frmStoklar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstokrapor.resx">
+      <DependentUpon>frmstokrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYeniMusteri.resx">
+      <DependentUpon>frmYeniMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkullanicigiris.resx">
+      <DependentUpon>frmkullanicigiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <None Include="otelDataSet.xsc">
+      <DependentUpon>otelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet.xss">
+      <DependentUpon>otelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet1.xsc">
+      <DependentUpon>otelDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet1.xss">
+      <DependentUpon>otelDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet2.xsc">
+      <DependentUpon>otelDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet2.xss">
+      <DependentUpon>otelDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet3.xsc">
+      <DependentUpon>otelDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet3.xss">
+      <DependentUpon>otelDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet4.xsc">
+      <DependentUpon>otelDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet4.xss">
+      <DependentUpon>otelDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet5.xsc">
+      <DependentUpon>otelDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet5.xss">
+      <DependentUpon>otelDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet6.xsc">
+      <DependentUpon>otelDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="otelDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>otelDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="otelDataSet6.xss">
+      <DependentUpon>otelDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,98 @@
+c:\users\kzmtgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.exe.config
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.exe
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.pdb
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmYeniMusteri.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmkullanicigiris.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.Properties.Resources.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.exe
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.pdb
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAnaform.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAktiviteler.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmCafeBar.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmKullaniciislemleri.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMuhasebe.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriler.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmOdalar.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmSpaMasaj.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmStoklar.resources
+C:\Users\KzmTgc\documents\visual studio 2013\Projects\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMesajlar.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.exe.config
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.exe
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.pdb
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.exe
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.pdb
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csprojResolveAssemblyReference.cache
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAktiviteler.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAnaform.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmCafeBar.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmKullaniciislemleri.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMesajlar.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMuhasebe.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriler.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriRapor.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmOdalar.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmSpaMasaj.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmStoklar.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmYeniMusteri.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmkullanicigiris.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.Properties.Resources.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csproj.GenerateResource.Cache
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\RdlCompile.cache
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\RdlCompile.compiled
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmmesajrapor.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmstokrapor.resources
+D:\PROJE 2\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmaktiviterapor.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.exe.config
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.exe
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.pdb
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.exe
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\bin\Debug\Otel_Yonetim_Otomasyon.pdb
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csprojResolveAssemblyReference.cache
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAktiviteler.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmaktiviterapor.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAnaform.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmCafeBar.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmKullaniciislemleri.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMesajlar.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmmesajrapor.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMuhasebe.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriler.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriRapor.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmOdalar.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmSpaMasaj.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmStoklar.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmstokrapor.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmYeniMusteri.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmkullanicigiris.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.Properties.Resources.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csproj.GenerateResource.Cache
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\RdlCompile.cache
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\RdlCompile.compiled
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmpersonelrapor.resources
+D:\Otel_Yonetim_Otomasyon\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmgiderler.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csprojAssemblyReference.cache
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAktiviteler.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmaktiviterapor.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmAnaform.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmCafeBar.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmgiderler.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmKullaniciislemleri.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMesajlar.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmmesajrapor.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMuhasebe.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriler.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmMusteriRapor.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmOdalar.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmpersonelrapor.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmSpaMasaj.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmStoklar.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmstokrapor.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmYeniMusteri.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.frmkullanicigiris.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.Properties.Resources.resources
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csproj.GenerateResource.cache
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.exe
+C:\Users\bbas5\Desktop\Otel_Yonetim_Otomasyon-20190605T223813Z-001\Otel_Yonetim_Otomasyon\obj\Debug\Otel_Yonetim_Otomasyon.pdb
